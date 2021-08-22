@@ -1,0 +1,16 @@
+C:\Users\vish\projects\mcg\mcg\bin\Debug\net5.0\mcg.exe
+C:\Users\vish\projects\mcg\mcg\bin\Debug\net5.0\mcg.deps.json
+C:\Users\vish\projects\mcg\mcg\bin\Debug\net5.0\mcg.runtimeconfig.json
+C:\Users\vish\projects\mcg\mcg\bin\Debug\net5.0\mcg.runtimeconfig.dev.json
+C:\Users\vish\projects\mcg\mcg\bin\Debug\net5.0\mcg.dll
+C:\Users\vish\projects\mcg\mcg\bin\Debug\net5.0\ref\mcg.dll
+C:\Users\vish\projects\mcg\mcg\bin\Debug\net5.0\mcg.pdb
+C:\Users\vish\projects\mcg\mcg\obj\Debug\net5.0\mcg.csprojAssemblyReference.cache
+C:\Users\vish\projects\mcg\mcg\obj\Debug\net5.0\mcg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vish\projects\mcg\mcg\obj\Debug\net5.0\mcg.AssemblyInfoInputs.cache
+C:\Users\vish\projects\mcg\mcg\obj\Debug\net5.0\mcg.AssemblyInfo.cs
+C:\Users\vish\projects\mcg\mcg\obj\Debug\net5.0\mcg.csproj.CoreCompileInputs.cache
+C:\Users\vish\projects\mcg\mcg\obj\Debug\net5.0\mcg.dll
+C:\Users\vish\projects\mcg\mcg\obj\Debug\net5.0\ref\mcg.dll
+C:\Users\vish\projects\mcg\mcg\obj\Debug\net5.0\mcg.pdb
+C:\Users\vish\projects\mcg\mcg\obj\Debug\net5.0\mcg.genruntimeconfig.cache
